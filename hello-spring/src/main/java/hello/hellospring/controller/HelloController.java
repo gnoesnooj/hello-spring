@@ -28,6 +28,7 @@ public class HelloController {
     }
 
     // @responsebody 객체반환
+    // return 방식이 JSON 방식으로 return 된다.
     @GetMapping("hello-api")
     @ResponseBody
     public Hello helloApi(@RequestParam("name") String name){
