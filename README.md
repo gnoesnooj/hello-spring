@@ -11,3 +11,5 @@ test 2
 merge branch 1
 
 merge branch 1-2
+
+test 3
