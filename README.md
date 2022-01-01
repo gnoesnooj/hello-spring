@@ -8,6 +8,8 @@ test1
 
 test2
 
+insert1
+
 check2
 
 check1
