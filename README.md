@@ -10,6 +10,8 @@ test2
 
 insert1
 
+insert2
+
 check2
 
 check1
